@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "care-compass-1224f",
+  "private_key_id": "dbd593f5314a216e2ee1e737341211de783cf2d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEreLjHtyy95E/\nt1uRYFI49XOioElxiqw9n3EFM6jvdMHLDLXZ0zew5gKtDzvnppWhzNTb1mnmAdpJ\n3OJdCeSffR96mI2FiknwHX11ebvYl5zK5tLqcbVT8geifs/c2Xvz93DArO0p0eeP\neVXM2UcM8woP6rZOOzYXYfZh5kNbwSEb9ngjI5jTAh0YEfMlMz2/y17WTE8p6gOz\noGXs3liVTow/toB/++eNKlh/oMUMkj9Ti3hcIyXxg+BEM1Jt0hagZTAR6F2mUCxq\nUQwS1yRTEY1Vj3T8+x1u7IsH5i6WGDzNRBr9bCUtYzvA0yE5XIJ7zOjezeqwwOXt\nEtZM87C1AgMBAAECggEAD3MJS4X1GCnSQwsIKldCni7JspCctEqMVRrdKedw8b5e\nKrEI599rlH284BM+RWgUgO0yG0KwdtzWZM7xCRXp241cl6i8FS1TuYTXgg7Z7p2a\nN2YCU2AzOjDc4KrNcS+0SOm69aefyZUvd1m0n67BogbFV5K8V1DXYubTD8WirOZP\niPv/mDR6bacAG4sOBoAXSmrSs9Xm5yZcrCNYWTsVttp7oYT0gnsdPyUDB5MFi7r1\n3DAIRGS0BNmSHQt9yQH7wEZbDk55qRL1QFRCvGgjWJv+GuUk5guTNC4d96V616+0\nS/nnvFBLQmAco+kua+uU5g8/BWmzBHjwtMB2Qij/gQKBgQDoqNk/BDRMd9FUf9ui\nBP0Xn2gR9z4ZvOKqna9RaPuhlp2t6lM8ohkMhk91CIneUy7MWOsLonnh+bAIlFxB\n4QzS6zA+EY4Pif3d2WAdxdjGBIHLnVsaykcL17Zlxdj2+93uCO3SGIXf0lB90L8a\n7huBLKVMTfCXAPJf1DWaCSLKHQKBgQDYaP4p/k897bfB52u/DAQiBgbAG7GUDkiZ\nm5we1HklGIon7lJ0oNa8SC9RbzrZQpzbDW3g3mlk6QdpjvCVZf6DckR+ZoR55MtU\nK9GMmgdU67wtldR8pnJdllmk3zhB400BmtqTYDk9EU7cxJ/xWnh1/TIZphzCLIbb\nWKgs0Xp9eQKBgEMCvu/DijysFgK8gMn9ndf79cGW8LABE1gI6sIL9s3nz6qT3z2L\ngqN029Xdi7gZRVVeFvTW6zwG6ojOEnR3GXZ2fwKhk8Ut/Yy0W1a38WO3UJsQy3i/\n4g6rJsHRZlhc2uMAd18X6Rc6QCy8vw5Gnm1qKoH7wNv9TdIEERw4nWiRAoGBAJ1j\nZo3F7X2dmIoGM79jDtJrzZcDzRdfd/93Q4jMgDqxaTD3S7KUkvemC/vOyF7f6lIJ\np0LmnoIMVB66HVCaOAsDHLtM9cXs1s+leqYmE3T4aQhCMqJhL0XPJe0ZhsGsfQHQ\nzGxoi9hU8STwP155rKgq97fdroateXqnNNA7nTkJAoGBANNZwIA2MvH/LRZ3W/U+\nbI8IjK2a24Fi8SJVysQQnKxHgvWCPonCG2VBRMBWxxtiilWaTuvlPHleT0Cyl+T3\nautQyPSveUSJtC4ezZrIZLW14OtXy5dzYgt6uF5VyVAqjgu8/K9MFPYXhxuReG14\n4zEOxjzrkwNPW7HcwqMWFzZr\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6ynhy@care-compass-1224f.iam.gserviceaccount.com",
+  "client_id": "101275054899195493091",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6ynhy%40care-compass-1224f.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
